@@ -2,15 +2,15 @@
   "categories" : [
     {
       "categoryname" : "all",
-      "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/blob/main/icons/all.png",
+      "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/blob/main/icons/all.png"
     },
     {
       "categoryname" : "favourite",
-      "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/blob/main/icons/favourite.png",
+      "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/blob/main/icons/favourite.png"
     },
     {
       "categoryname" : "social",
-      "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/blob/main/icons/social.png",
+      "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/blob/main/icons/social.png"
     },
-  ],
+  ]
 }
