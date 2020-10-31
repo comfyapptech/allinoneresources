@@ -103,6 +103,46 @@
         "category": "social",
         "priority": 0,
         "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/skype.png"
+      },
+
+      {
+        "app_name": "Netflix",
+        "app_link": "https://www.netflix.com/",
+        "category": "videos",
+        "priority": 0,
+        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/netflix.png"
+      },
+
+      {
+        "app_name": "Vimeo",
+        "app_link": "https://www.vimeo.com/",
+        "category": "videos",
+        "priority": 0,
+        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/vimeo.png"
+      },
+
+      {
+        "app_name": "Twitch",
+        "app_link": "https://www.twitch.tv/",
+        "category": "videos",
+        "priority": 0,
+        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/twitch.png"
+      },
+
+      {
+        "app_name": "Prime Video",
+        "app_link": "https://www.primevideo.com/",
+        "category": "videos",
+        "priority": 0,
+        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/primevideo.png"
+      },
+
+      {
+        "app_name": "Hulu",
+        "app_link": "https://www.hulu.com/",
+        "category": "videos",
+        "priority": 0,
+        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/hulu.png"
       }
   
       
