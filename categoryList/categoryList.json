@@ -1,62 +1,62 @@
 {
   "categories" : [
     {
-      "categoryname" : "All",
+      "categoryname" : "all",
       "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/all.png"
 		},
     
     {
-      "categoryname" : "Favourite",
+      "categoryname" : "favourite",
       "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/favourite.png"
     },
     
     {
-      "categoryname" : "Social",
+      "categoryname" : "social",
       "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/social.png"
     },
 	
     {
-      "categoryname" : "Videos",
+      "categoryname" : "videos",
       "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/video.png"
     },
 	  
     {
-      "categoryname" : "Music",
+      "categoryname" : "music",
       "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/music.png"
     },
 	  
     {
-      "categoryname" : "Email",
+      "categoryname" : "email",
       "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/email.png"
     },
 	  
     {
-      "categoryname" : "News",
+      "categoryname" : "news",
       "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/news.png"
     },
 	  
     {
-      "categoryname" : "Travel",
+      "categoryname" : "travel",
       "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/travel.png"
     },
 	  
     {
-      "categoryname" : "Shopping",
+      "categoryname" : "shopping",
       "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/shopping.png"
     },
 	  
     {
-      "categoryname" : "Education",
+      "categoryname" : "education",
       "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/education.png"
     },
 	  
     {
-      "categoryname" : "Sports",
+      "categoryname" : "sports",
       "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/sports.png"
     },
 	  
     {
-      "categoryname" : "Blogs",
+      "categoryname" : "blogs",
       "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/blogs.png"
     }
   ]
