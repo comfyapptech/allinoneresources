@@ -1,18 +1,63 @@
 {
   "categories" : [
     {
-      "categoryname" : "all",
+      "categoryname" : "All",
       "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/all.png"
 		},
     
     {
-      "categoryname" : "favourite",
+      "categoryname" : "Favourite",
       "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/favourite.png"
     },
     
     {
-      "categoryname" : "social",
+      "categoryname" : "Social",
       "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/social.png"
+    },
+	
+    {
+      "categoryname" : "Videos",
+      "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/video.png"
+    },
+	  
+    {
+      "categoryname" : "Music",
+      "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/music.png"
+    },
+	  
+    {
+      "categoryname" : "Email",
+      "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/email.png"
+    },
+	  
+    {
+      "categoryname" : "News",
+      "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/news.png"
+    },
+	  
+    {
+      "categoryname" : "Travel",
+      "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/travel.png"
+    },
+	  
+    {
+      "categoryname" : "Shopping",
+      "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/shopping.png"
+    },
+	  
+    {
+      "categoryname" : "Education",
+      "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/education.png"
+    },
+	  
+    {
+      "categoryname" : "Sports",
+      "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/sports.png"
+    },
+	  
+    {
+      "categoryname" : "Blogs",
+      "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/blogs.png"
     }
   ]
 }
