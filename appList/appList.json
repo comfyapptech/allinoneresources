@@ -160,15 +160,7 @@
       "priority": 0,
       "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/wynk.png"
     },
-
-    {
-      "app_name": "Amazon Music",
-      "app_link": "https://music.amazon.in/home",
-      "category": "music",
-      "priority": 0,
-      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/amazonmusic.png"
-    },
-
+    
     {
       "app_name": "Gaana",
       "app_link": "https://www.gaana.com/",
