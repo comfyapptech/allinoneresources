@@ -1,445 +1,445 @@
 {
-    "apps": [
-  
-      {
-        "app_name": "Google",
-        "app_link": "https://www.google.com",
-        "category": "general",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/google.png"
-      },
+  "apps": [
 
-      {
-        "app_name": "Facebook",
-        "app_link": "https://m.facebook.com",
-        "category": "social",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/facebook.png"
-      },
+    {
+      "app_name": "Google",
+      "app_link": "https://www.google.com",
+      "category": "general",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/google.png"
+    },
 
-      {
-        "app_name": "Instagram",
-        "app_link": "https://www.instagram.com",
-        "category": "social",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/instagram.png"
-      },
+    {
+      "app_name": "Facebook",
+      "app_link": "https://m.facebook.com",
+      "category": "social",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/facebook.png"
+    },
 
-      {
-        "app_name": "Twitter",
-        "app_link": "https://mobile.twitter.com",
-        "category": "social",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/twitter.png"
-      },
+    {
+      "app_name": "Instagram",
+      "app_link": "https://www.instagram.com",
+      "category": "social",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/instagram.png"
+    },
 
-      {
-        "app_name": "LinkedIn",
-        "app_link": "https://www.linkedin.com",
-        "category": "social",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/linkedin.png"
-      },
+    {
+      "app_name": "Twitter",
+      "app_link": "https://mobile.twitter.com",
+      "category": "social",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/twitter.png"
+    },
 
-      {
-        "app_name": "Office",
-        "app_link": "https://www.office.com/",
-        "category": "social",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/office.png"
-      },
+    {
+      "app_name": "LinkedIn",
+      "app_link": "https://www.linkedin.com",
+      "category": "social",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/linkedin.png"
+    },
 
-      {
-        "app_name": "Pinterest",
-        "app_link": "https://www.pinterest.com/",
-        "category": "social",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/pinterest.png"
-      },
+    {
+      "app_name": "Office",
+      "app_link": "https://www.office.com/",
+      "category": "social",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/office.png"
+    },
 
-      {
-        "app_name": "Reddit",
-        "app_link": "https://www.reddit.com/",
-        "category": "social",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/reddit.png"
-      },
+    {
+      "app_name": "Pinterest",
+      "app_link": "https://www.pinterest.com/",
+      "category": "social",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/pinterest.png"
+    },
 
-      {
-        "app_name": "Snapchat",
-        "app_link": "https://www.snapchat.com/",
-        "category": "social",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/snapchat.png"
-      },
+    {
+      "app_name": "Reddit",
+      "app_link": "https://www.reddit.com/",
+      "category": "social",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/reddit.png"
+    },
 
-      {
-        "app_name": "Discord",
-        "app_link": "https://www.discord.com/",
-        "category": "social",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/discord.png"
-      },
+    {
+      "app_name": "Snapchat",
+      "app_link": "https://www.snapchat.com/",
+      "category": "social",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/snapchat.png"
+    },
 
-      {
-        "app_name": "WhatsApp",
-        "app_link": "https://web.whatsapp.com/",
-        "category": "social",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/whatsapp.png"
-      },
+    {
+      "app_name": "Discord",
+      "app_link": "https://www.discord.com/",
+      "category": "social",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/discord.png"
+    },
 
-      {
-        "app_name": "Tumbler",
-        "app_link": "https://www.tumblr.com/",
-        "category": "social",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/tumbler.png"
-      },
+    {
+      "app_name": "WhatsApp",
+      "app_link": "https://web.whatsapp.com/",
+      "category": "social",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/whatsapp.png"
+    },
 
-      {
-        "app_name": "Skype",
-        "app_link": "https://www.skype.com/en/",
-        "category": "social",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/skype.png"
-      },
+    {
+      "app_name": "Tumbler",
+      "app_link": "https://www.tumblr.com/",
+      "category": "social",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/tumbler.png"
+    },
 
-      {
-        "app_name": "Netflix",
-        "app_link": "https://www.netflix.com/",
-        "category": "videos",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/netflix.png"
-      },
+    {
+      "app_name": "Skype",
+      "app_link": "https://www.skype.com/en/",
+      "category": "social",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/skype.png"
+    },
 
-      {
-        "app_name": "Vimeo",
-        "app_link": "https://www.vimeo.com/",
-        "category": "videos",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/vimeo.png"
-      },
+    {
+      "app_name": "Netflix",
+      "app_link": "https://www.netflix.com/",
+      "category": "videos",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/netflix.png"
+    },
 
-      {
-        "app_name": "Twitch",
-        "app_link": "https://www.twitch.tv/",
-        "category": "videos",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/twitch.png"
-      },
+    {
+      "app_name": "Vimeo",
+      "app_link": "https://www.vimeo.com/",
+      "category": "videos",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/vimeo.png"
+    },
 
-      {
-        "app_name": "Prime Video",
-        "app_link": "https://www.primevideo.com/",
-        "category": "videos",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/primevideo.png"
-      },
+    {
+      "app_name": "Twitch",
+      "app_link": "https://www.twitch.tv/",
+      "category": "videos",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/twitch.png"
+    },
 
-      {
-        "app_name": "Hulu",
-        "app_link": "https://www.hulu.com/",
-        "category": "videos",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/hulu.png"
-      },
+    {
+      "app_name": "Prime Video",
+      "app_link": "https://www.primevideo.com/",
+      "category": "videos",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/primevideo.png"
+    },
 
-      {
-        "app_name": "Spotify",
-        "app_link": "https://www.spotify.com/",
-        "category": "music",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/spotify.png"
-      },
+    {
+      "app_name": "Hulu",
+      "app_link": "https://www.hulu.com/",
+      "category": "videos",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/hulu.png"
+    },
 
-      {
-        "app_name": "Wynk",
-        "app_link": "https://www.wynk.in/",
-        "category": "music",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/wynk.png"
-      },
+    {
+      "app_name": "Spotify",
+      "app_link": "https://www.spotify.com/",
+      "category": "music",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/spotify.png"
+    },
 
-      {
-        "app_name": "Amazon Music",
-        "app_link": "https://music.amazon.com/",
-        "category": "music",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/amazonmusic.png"
-      },
+    {
+      "app_name": "Wynk",
+      "app_link": "https://www.wynk.in/",
+      "category": "music",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/wynk.png"
+    },
 
-      {
-        "app_name": "Gaana",
-        "app_link": "https://www.gaana.com/",
-        "category": "music",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/gaana.png"
-      },
+    {
+      "app_name": "Amazon Music",
+      "app_link": "https://music.amazon.in/home",
+      "category": "music",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/amazonmusic.png"
+    },
 
-      {
-        "app_name": "Jio Saavn",
-        "app_link": "https://www.jiosaavn.com/",
-        "category": "music",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/jiosavan.png"
-      },
+    {
+      "app_name": "Gaana",
+      "app_link": "https://www.gaana.com/",
+      "category": "music",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/gaana.png"
+    },
 
-      {
-        "app_name": "Outlook",
-        "app_link": "https://www.outlook.live.com/",
-        "category": "email",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/outlook.png"
-      },
+    {
+      "app_name": "Jio Saavn",
+      "app_link": "https://www.jiosaavn.com/",
+      "category": "music",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/jiosavan.png"
+    },
 
-      {
-        "app_name": "Gmail",
-        "app_link": "https://www.gmail.com/",
-        "category": "email",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/gmail.png"
-      },
+    {
+      "app_name": "Outlook",
+      "app_link": "https://outlook.live.com/owa/",
+      "category": "email",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/outlook.png"
+    },
 
-      {
-        "app_name": "Yahoo News",
-        "app_link": "https://news.yahoo.com/",
-        "category": "news",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/yahoonews.png"
-      },
+    {
+      "app_name": "Gmail",
+      "app_link": "https://www.gmail.com/",
+      "category": "email",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/gmail.png"
+    },
 
-      {
-        "app_name": "Huffington Post",
-        "app_link": "https://www.huffpost.com/",
-        "category": "news",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/huffingtonpost.png"
-      },
+    {
+      "app_name": "Yahoo News",
+      "app_link": "https://news.yahoo.com/",
+      "category": "news",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/yahoonews.png"
+    },
 
-      {
-        "app_name": "CNN",
-        "app_link": "https://edition.cnn.com/",
-        "category": "news",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/cnn.png"
-      },
+    {
+      "app_name": "Huffington Post",
+      "app_link": "https://www.huffpost.com/",
+      "category": "news",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/huffingtonpost.png"
+    },
 
-      {
-        "app_name": "BBC",
-        "app_link": "https://www.bbc.com/",
-        "category": "news",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/bbc.png"
-      },
+    {
+      "app_name": "CNN",
+      "app_link": "https://edition.cnn.com/",
+      "category": "news",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/cnn.png"
+    },
 
-      {
-        "app_name": "AajTak",
-        "app_link": "https://www.aajtak.in/",
-        "category": "news",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/aajtak.png"
-      },
+    {
+      "app_name": "BBC",
+      "app_link": "https://www.bbc.com/",
+      "category": "news",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/bbc.png"
+    },
 
-      {
-        "app_name": "NewsComAU",
-        "app_link": "https://www.news.com.au/",
-        "category": "news",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/newscomau.png"
-      },
+    {
+      "app_name": "AajTak",
+      "app_link": "https://www.aajtak.in/",
+      "category": "news",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/aajtak.png"
+    },
 
-      {
-        "app_name": "ORF.at",
-        "app_link": "https://orf.at/",
-        "category": "news",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/orfdotat.png"
-      },
+    {
+      "app_name": "NewsComAU",
+      "app_link": "https://www.news.com.au/",
+      "category": "news",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/newscomau.png"
+    },
 
-      {
-        "app_name": "Tripadvisor",
-        "app_link": "https://www.tripadvisor.com/",
-        "category": "travel",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/tripadvisor.png"
-      },
-  
-      {
-        "app_name": "MakeMyTrip",
-        "app_link": "https://www.makemytrip.com/",
-        "category": "travel",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/makemytrip.png"
-      },
+    {
+      "app_name": "ORF.at",
+      "app_link": "https://orf.at/",
+      "category": "news",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/orfdotat.png"
+    },
 
-      {
-        "app_name": "Airbnb",
-        "app_link": "https://www.airbnb.com/",
-        "category": "travel",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/airbnb.png"
-      },
+    {
+      "app_name": "Tripadvisor",
+      "app_link": "https://www.tripadvisor.com/",
+      "category": "travel",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/tripadvisor.png"
+    },
 
-      {
-        "app_name": "Skyscanner",
-        "app_link": "https://www.skyscanner.co.in/",
-        "category": "travel",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/skyscanner.png"
-      },
+    {
+      "app_name": "MakeMyTrip",
+      "app_link": "https://www.makemytrip.com/",
+      "category": "travel",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/makemytrip.png"
+    },
 
-      {
-        "app_name": "Booking.com",
-        "app_link": "https://www.booking.com/",
-        "category": "travel",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/bookingcom.png"
-      },
+    {
+      "app_name": "Airbnb",
+      "app_link": "https://www.airbnb.com/",
+      "category": "travel",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/airbnb.png"
+    },
 
-      {
-        "app_name": "Momondo",
-        "app_link": "https://www.momondo.in/",
-        "category": "travel",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/momondo.png"
-      },
+    {
+      "app_name": "Skyscanner",
+      "app_link": "https://www.skyscanner.co.in/",
+      "category": "travel",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/skyscanner.png"
+    },
 
-      {
-        "app_name": "Amazon",
-        "app_link": "https://www.amazon.in",
-        "category": "shopping",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/amazon.png"
-      },
+    {
+      "app_name": "Booking.com",
+      "app_link": "https://www.booking.com/",
+      "category": "travel",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/bookingcom.png"
+    },
 
-      {
-        "app_name": "Walmart",
-        "app_link": "https://www.walmart.com",
-        "category": "shopping",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/walmart.png"
-      },
+    {
+      "app_name": "Momondo",
+      "app_link": "https://www.momondo.in/",
+      "category": "travel",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/momondo.png"
+    },
 
-      {
-        "app_name": "Flipkart",
-        "app_link": "https://www.flipkart.com",
-        "category": "shopping",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/flipkart.png"
-      },
+    {
+      "app_name": "Amazon",
+      "app_link": "https://www.amazon.in",
+      "category": "shopping",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/amazon.png"
+    },
 
-      {
-        "app_name": "Myntra",
-        "app_link": "https://www.myntra.com",
-        "category": "shopping",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/myntra.png"
-      },
+    {
+      "app_name": "Walmart",
+      "app_link": "https://www.walmart.com",
+      "category": "shopping",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/walmart.png"
+    },
 
-      {
-        "app_name": "Alibaba",
-        "app_link": "https://www.alibaba.com",
-        "category": "shopping",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/alibaba.png"
-      },
+    {
+      "app_name": "Flipkart",
+      "app_link": "https://www.flipkart.com",
+      "category": "shopping",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/flipkart.png"
+    },
 
-      {
-        "app_name": "OLX",
-        "app_link": "https://www.olx.com",
-        "category": "shopping",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/olx.png"
-      },
+    {
+      "app_name": "Myntra",
+      "app_link": "https://www.myntra.com",
+      "category": "shopping",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/myntra.png"
+    },
 
-      {
-        "app_name": "Ebay",
-        "app_link": "https://www.ebay.com",
-        "category": "shopping",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/ebay.png"
-      },
+    {
+      "app_name": "Alibaba",
+      "app_link": "https://www.alibaba.com",
+      "category": "shopping",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/alibaba.png"
+    },
 
-      {
-        "app_name": "Wikipedia",
-        "app_link": "https://www.wikipedia.org",
-        "category": "education",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/wikipedia.png"
-      },
+    {
+      "app_name": "OLX",
+      "app_link": "https://www.olx.com",
+      "category": "shopping",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/olx.png"
+    },
 
-      {
-        "app_name": "Ars Technica",
-        "app_link": "https://arstechnica.com/",
-        "category": "education",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/arstechnica.png"
-      },
+    {
+      "app_name": "Ebay",
+      "app_link": "https://www.ebay.com",
+      "category": "shopping",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/ebay.png"
+    },
 
-      {
-        "app_name": "Atlas Obscura",
-        "app_link": "https://www.atlasobscura.com/",
-        "category": "education",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/bbcscience.png"
-      },
+    {
+      "app_name": "Wikipedia",
+      "app_link": "https://www.wikipedia.org",
+      "category": "education",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/wikipedia.png"
+    },
 
-      {
-        "app_name": "BBC Science",
-        "app_link": "https://www.bbc.com/news/science_and_environment",
-        "category": "education",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/atlasobscura.png"
-      },
+    {
+      "app_name": "Ars Technica",
+      "app_link": "https://arstechnica.com/",
+      "category": "education",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/arstechnica.png"
+    },
 
-      {
-        "app_name": "ESPN",
-        "app_link": "https://www.espn.com",
-        "category": "sports",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/espn.png"
-      },
+    {
+      "app_name": "Atlas Obscura",
+      "app_link": "https://www.atlasobscura.com/",
+      "category": "education",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/atlasobscura.png"
+    },
 
-      {
-        "app_name": "Cricbuzz",
-        "app_link": "https://www.cricbuzz.com/",
-        "category": "sports",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/cricbuzz.png"
-      },
+    {
+      "app_name": "BBC Science",
+      "app_link": "https://www.bbc.com/news/science_and_environment",
+      "category": "education",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/bbcscience.png"
+    },
 
-      {
-        "app_name": "Premier League",
-        "app_link": "https://www.premierleague.com/",
-        "category": "sports",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/premierleague.png"
-      },
+    {
+      "app_name": "ESPN",
+      "app_link": "https://www.espn.com",
+      "category": "sports",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/espn.png"
+    },
 
-      {
-        "app_name": "Sports Keeda",
-        "app_link": "https://www.sportskeeda.com/",
-        "category": "sports",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/sportskeeda.png"
-      },
+    {
+      "app_name": "Cricbuzz",
+      "app_link": "https://www.cricbuzz.com/",
+      "category": "sports",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/cricbuzz.png"
+    },
 
-      {
-        "app_name": "Quora",
-        "app_link": "https://www.quora.com/",
-        "category": "blogs",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/quora.png"
-      },
+    {
+      "app_name": "Premier League",
+      "app_link": "https://www.premierleague.com/",
+      "category": "sports",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/premierleague.png"
+    },
 
-      {
-        "app_name": "Medium",
-        "app_link": "https://www.medium.com/",
-        "category": "blogs",
-        "priority": 0,
-        "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/medium.png"
-      }
-      
-    ]
-  }
+    {
+      "app_name": "Sports Keeda",
+      "app_link": "https://www.sportskeeda.com/",
+      "category": "sports",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/sportskeeda.png"
+    },
+
+    {
+      "app_name": "Quora",
+      "app_link": "https://www.quora.com/",
+      "category": "blogs",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/quora.png"
+    },
+
+    {
+      "app_name": "Medium",
+      "app_link": "https://www.medium.com/",
+      "category": "blogs",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/medium.png"
+    }
+    
+  ]
+}
