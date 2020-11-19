@@ -74,14 +74,6 @@
     },
 
     {
-      "app_name": "WhatsApp",
-      "app_link": "https://web.whatsapp.com/",
-      "category": "social",
-      "priority": 0,
-      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/whatsapp.png"
-    },
-
-    {
       "app_name": "Tumbler",
       "app_link": "https://www.tumblr.com/",
       "category": "social",
