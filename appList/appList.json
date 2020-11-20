@@ -440,6 +440,30 @@
       "priority": 0,
       "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/ebay.png"
     },
+    
+    {
+      "app_name": "Snapdeal",
+      "app_link": "https://www.snapdeal.com/",
+      "category": "shopping",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/snapdeal.png"
+    },
+    
+    {
+      "app_name": "Nykaa",
+      "app_link": "https://www.nykaa.com/",
+      "category": "shopping",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/nykaa.png"
+    },
+    
+    {
+      "app_name": "Grofers",
+      "app_link": "https://grofers.com/",
+      "category": "shopping",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/grofers.png"
+    },
 
     {
       "app_name": "Wikipedia",
