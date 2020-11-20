@@ -336,6 +336,30 @@
       "priority": 0,
       "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/bookingcom.png"
     },
+    
+    {
+      "app_name": "OYO",
+      "app_link": "https://www.oyorooms.com/",
+      "category": "travel",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/oyo.png"
+    },
+    
+    {
+      "app_name": "Redbus",
+      "app_link": "https://www.redbus.in/",
+      "category": "travel",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/redbus.png"
+    },
+    
+    {
+      "app_name": "Expedia",
+      "app_link": "https://www.expedia.com/",
+      "category": "travel",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/expedia.png"
+    },
 
     {
       "app_name": "Momondo",
