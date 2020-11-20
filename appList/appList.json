@@ -192,6 +192,22 @@
       "priority": 0,
       "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/gmail.png"
     },
+    
+    {
+      "app_name": "Fakemail",
+      "app_link": "https://www.fakemail.net/",
+      "category": "email",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/fakemail.png"
+    },
+    
+    {
+      "app_name": "Tempmail",
+      "app_link": "https://temp-mail.org/en/",
+      "category": "email",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/tempmail.png"
+    },
 
     {
       "app_name": "Yahoo News",
