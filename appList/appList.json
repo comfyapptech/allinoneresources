@@ -56,6 +56,14 @@
       "priority": 0,
       "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/sharechat.png"
     },
+    
+    {
+      "app_name": "Snapchat Stories",
+      "app_link": "https://story.snapchat.com/",
+      "category": "social",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/snapchat.png"
+    },
 
     {
       "app_name": "Pinterest",
