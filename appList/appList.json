@@ -128,6 +128,14 @@
       "priority": 0,
       "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/hulu.png"
     },
+    
+    {
+      "app_name": "Cartoon Network",
+      "app_link": "https://www.cartoonnetworkhq.com/videos",
+      "category": "videos",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/cartoonnetwork.png"
+    },
 
     {
       "app_name": "Spotify",
