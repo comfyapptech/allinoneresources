@@ -472,6 +472,14 @@
       "priority": 0,
       "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/wikipedia.png"
     },
+    
+    {
+      "app_name": "Sarkari Result",
+      "app_link": "https://www.sarkariresult.com/",
+      "category": "education",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/sarkariresult.png"
+    },
 
     {
       "app_name": "Ars Technica",
@@ -495,6 +503,22 @@
       "category": "education",
       "priority": 0,
       "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/bbcscience.png"
+    },
+    
+    {
+      "app_name": "Geeksforgeeks",
+      "app_link": "https://www.geeksforgeeks.org/",
+      "category": "education",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/geeksforgeeks.png"
+    },
+    
+    {
+      "app_name": "Algorithms",
+      "app_link": "https://cp-algorithms.com/",
+      "category": "education",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/cpalgorithm.png"
     },
 
     {
