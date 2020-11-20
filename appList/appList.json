@@ -248,6 +248,22 @@
       "priority": 0,
       "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/aajtak.png"
     },
+    
+    {
+      "app_name": "The Hindu",
+      "app_link": "https://www.thehindu.com/",
+      "category": "news",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/thehindu.png"
+    },
+    
+    {
+      "app_name": "The Indian Express",
+      "app_link": "https://indianexpress.com/",
+      "category": "news",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/theindianexpress.png"
+    },
 
     {
       "app_name": "NewsComAU",
