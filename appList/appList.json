@@ -552,6 +552,14 @@
       "priority": 0,
       "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/sportskeeda.png"
     },
+    
+    {
+      "app_name": "ESPN Cricinfo",
+      "app_link": "https://www.espncricinfo.com/",
+      "category": "sports",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/cricinfo.png"
+    },
 
     {
       "app_name": "Quora",
