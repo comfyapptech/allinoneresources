@@ -88,6 +88,14 @@
       "priority": 0,
       "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/skype.png"
     },
+    
+    {
+      "app_name": "Telegram",
+      "app_link": "https://web.telegram.org",
+      "category": "social",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/telegram.png"
+    },
 
     {
       "app_name": "Netflix",
