@@ -360,6 +360,22 @@
       "priority": 0,
       "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/expedia.png"
     },
+    
+    {
+      "app_name": "Yatra",
+      "app_link": "https://www.yatra.com/",
+      "category": "travel",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/yatra.png"
+    },
+    
+    {
+      "app_name": "HotelsCom",
+      "app_link": "https://in.hotels.com/",
+      "category": "travel",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/hotelscom.png"
+    },
 
     {
       "app_name": "Momondo",
