@@ -48,6 +48,14 @@
       "priority": 0,
       "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/office.png"
     },
+    
+    {
+      "app_name": "Sharechat",
+      "app_link": "https://sharechat.com/",
+      "category": "social",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/sharechat.png"
+    },
 
     {
       "app_name": "Pinterest",
