@@ -82,14 +82,6 @@
     },
 
     {
-      "app_name": "Discord",
-      "app_link": "https://www.discord.com/",
-      "category": "social",
-      "priority": 0,
-      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/discord.png"
-    },
-
-    {
       "app_name": "Tumbler",
       "app_link": "https://www.tumblr.com/",
       "category": "social",
