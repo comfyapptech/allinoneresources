@@ -312,6 +312,14 @@
       "priority": 0,
       "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/airbnb.png"
     },
+    
+    {
+      "app_name": "Ixigo",
+      "app_link": "https://www.ixigo.com/trains",
+      "category": "travel",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/ixigo.png"
+    },
 
     {
       "app_name": "Skyscanner",
