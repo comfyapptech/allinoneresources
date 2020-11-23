@@ -41,11 +41,6 @@
     },
 	  
     {
-      "categoryname" : "food",
-      "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/food.png"
-    },
-	  
-    {
       "categoryname" : "shopping",
       "categorylink" : "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/shopping.png"
     },
