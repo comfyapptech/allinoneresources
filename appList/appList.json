@@ -583,6 +583,62 @@
       "category": "blogs",
       "priority": 0,
       "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/medium.png"
+    },
+    
+    {
+      "app_name": "Zomato",
+      "app_link": "https://www.zomato.com/",
+      "category": "food",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/zomato.png"
+    },
+    
+    {
+      "app_name": "Swiggy",
+      "app_link": "https://www.swiggy.com/",
+      "category": "food",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/swiggy.png"
+    },
+    
+    {
+      "app_name": "Dominos",
+      "app_link": "https://www.dominos.co.in/",
+      "category": "food",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/dominos.png"
+    },
+    
+    {
+      "app_name": "McDonalds",
+      "app_link": "https://www.mcdelivery.co.in/home/trending",
+      "category": "food",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/mcdonalds.png"
+    },
+    
+    {
+      "app_name": "KFC",
+      "app_link": "https://online.kfc.co.in/",
+      "category": "food",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/kfc.png"
+    },
+    
+    {
+      "app_name": "Ubereats",
+      "app_link": "https://www.ubereats.com/",
+      "category": "food",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/ubereats.png"
+    },
+    
+    {
+      "app_name": "Freshmenu",
+      "app_link": "https://www.freshmenu.com/",
+      "category": "food",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/freshmenu.png"
     }
     
   ]
