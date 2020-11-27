@@ -8,6 +8,14 @@
       "priority": 0,
       "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/google.png"
     },
+    
+    {
+      "app_name": "DuckDuckGo",
+      "app_link": "https://duckduckgo.com/",
+      "category": "general",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/duckduckgo.png"
+    },
 
     {
       "app_name": "Facebook",
