@@ -32,6 +32,14 @@
       "priority": 0,
       "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/instagram.png"
     },
+    
+    {
+      "app_name": "Shaurya INGENIERIA",
+      "app_link": "https://shauryashares.weebly.com/",
+      "category": "education",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/shaurya.png"
+    },
 
     {
       "app_name": "Twitter",
