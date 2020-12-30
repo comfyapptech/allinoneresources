@@ -243,7 +243,7 @@
 
     {
       "app_name": "DW",
-      "app_link": "https://www.dw.com/en/top-stories/s-9097",
+      "app_link": "https://www.dw.com",
       "category": "news",
       "priority": 0,
       "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/dw.png"
