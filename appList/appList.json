@@ -251,7 +251,7 @@
 
     {
       "app_name": "CNN",
-      "app_link": "https://edition.cnn.com/",
+      "app_link": "https://www.cnn.com/",
       "category": "news",
       "priority": 0,
       "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/cnn.png"
