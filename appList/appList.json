@@ -242,11 +242,19 @@
     },
 
     {
-      "app_name": "CNN",
-      "app_link": "https://www.cnn.com/",
+      "app_name": "DW",
+      "app_link": "https://www.dw.com/en/top-stories/",
       "category": "news",
       "priority": 0,
-      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/cnn.png"
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/dw.png"
+    },
+    
+    {
+      "app_name": "The Guardian",
+      "app_link": "https://www.theguardian.com/international",
+      "category": "news",
+      "priority": 0,
+      "icon_link": "https://raw.githubusercontent.com/comfyapptech/allinoneresources/main/icons/theguardian.png"
     },
 
     {
